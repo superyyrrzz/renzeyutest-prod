@@ -1,7 +1,7 @@
 ---
 author: superyyrrzz
 title: for test
-ms-author: renzeyu
+ms.author: renzeyu
 ms.prod: .net
 ---
 
